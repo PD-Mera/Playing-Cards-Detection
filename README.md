@@ -1,6 +1,6 @@
-# License Plate Detection with YoloV5
+# Playing Cards Detection with YoloV8
 
-This repo uses YoloV8 to detect License Plate from image (only 1 class)
+This repo uses YoloV8 to detect Playing Cards from image (52 classes)
 
 ![result](./assets/result.jpg "result")
 
